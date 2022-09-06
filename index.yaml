@@ -1,0 +1,25 @@
+apiVersion: v1
+entries:
+  node-backend-chart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-09-06T10:01:00.423992214Z"
+    description: A Helm chart for Kubernetes
+    digest: 49f011cc9f185be440a92642e1d014c3fedb041d0ae6ae6dd5a149c9c8b41e10
+    name: node-backend-chart
+    type: application
+    urls:
+    - node-backend-chart-0.1.0.tgz
+    version: 0.1.0
+  react-frontend-chart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-09-06T10:01:00.424896292Z"
+    description: A Helm chart for Kubernetes
+    digest: 94f5aa5268fef7c98c31e1fd2fa0d4650b74bcd08b0ddc72b0b56b22029e9abc
+    name: react-frontend-chart
+    type: application
+    urls:
+    - react-frontend-chart-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-09-06T10:01:00.422691434Z"
